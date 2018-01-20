@@ -1,2 +1,2 @@
 # MAE
-statistics package
+statistical package
